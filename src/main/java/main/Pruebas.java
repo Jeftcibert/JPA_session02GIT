@@ -33,7 +33,7 @@ System.out.println("-->>Listar<<---");
 		//List<TbUsuario> lstUsuarios =em.createQuery("Select a From TbUsuario a", TbUsuario.class).getResultList();
 		
 		
-		System.out.println("================================");
+		System.out.println("==================================");
 		System.out.println("Nro de usuarios: "+lstUsuarios.size());
 		System.out.println("================================");
 		
